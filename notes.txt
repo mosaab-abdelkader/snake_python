@@ -1,0 +1,12 @@
+revision 21/12/2020:
+x = ["apple", "banana", "cherry"] ==> list
+x = ("apple", "banana", "cherry") ==>tuple
+x = {"name" : "John", "age" : 36} ==>dict
+methode .strip() ==> enlever les espacees dans un string
+.upper().lower() & .replace(,) ==> Maj et Minusc & pour remplacer(A,par B)
+mthd .append() ==> ajouter un memebre a la fin d'une liste deja crée (de mm pour add )
+mthd .insert(pos,) & .remove()==> " " " " avec pos l'endroit où maitre le nv element & just le nom a sup
+len(str)==> size nbr d'elem
+.update ==> concatiner deux liste ou bien ajouter une deuxieme list
+utiliser [] pour changer des champs dans lles dict et .get() pour ...
+car["color"]="red" ==>  ajouter un nv elem a une liste
